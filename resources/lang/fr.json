@@ -1,0 +1,22 @@
+{
+    "Languages": "Langues",
+    "Add language": "Ajouter une langue",
+    "Language": "Langue",
+    "Locale": "Locale",
+    "View translations": "Voir les traductions",
+    "Delete language": "Suppression d'une langue",
+    "Are you sure want to delete this language ?": "Êtes vous sur de vouloir supprimer cette langue ?",
+    "matching translations will delete too": "les traductions liées seront également supprimées",
+    "Language deleted": "Supprimé avec succès !",
+    "An error occurred, try again ...": "'Une erreur est survenue, veuillez réessayer ...'",
+    "Add new language": "Ajouter une nouvelle langue",
+    "English": "Français",
+    "en": "fr",
+    "Add this language": "Ajouter cette langue",
+    "Language added": "La langue à été créée avec succès.",
+    "Data entered is incorrect": "Les données saisies sont incorrectes.",
+    "No translations matched the given criteria": "Aucune traduction ne correspond avec les critères sélectionnés.",
+    "Translations": "Traductions",
+    "Group": "Groupe",
+    "Key": "Clé"
+}
